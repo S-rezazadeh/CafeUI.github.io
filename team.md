@@ -1,11 +1,44 @@
----
-layout: page
-title: تیم ما
-permalink: /team/
----
-<h1>salam bache ahaa</h1>
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<link href="newproject/stylesheets/team.css" rel="stylesheet" type="text/css" />
+<body>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+    <div class="allimg">
+    <div class="imge">
+        <img src="s.jpg" alt="esm">
+        <p class="profile"> سحر رضازاده </p>
+    </div>
+    
+    
+    <div class="imge">
+        <img src="s.jpg" alt="esm">
+        <p class="profile"> سمیرا نصرتی </p>
+    </div>
+    
+    <div class="imge">
+        <img src="s.jpg" alt="esm">
+        <p class="profile"> محمد شریفی </p>
+    </div>
+    
+    
+    <div class="imge">
+        <img src="s.jpg" alt="esm">
+        <p class="profile"> سعید پیری </p>
+    </div>
+    
+    <div class="imge">
+        <img src="s.jpg" alt="esm">
+        <p class="profile"> پیام حسنی </p>
+    </div>
+    </div>
+    
+        
+        <div class="explain">
+    <div class="exheader">
+    توضیحات در مورد پیش برد یک پروژه:
+    </div>
+    <div class="exbody">
+    
+    ...................................................
+    </div>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+</body>

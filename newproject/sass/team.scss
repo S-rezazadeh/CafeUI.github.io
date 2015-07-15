@@ -1,0 +1,53 @@
+
+$imgBackColor : rgba(0 , 0 , 0 , 0.1);
+$imgBoderRadius : 10px;
+$expadding :20px;
+
+
+.allimg
+{
+    width: auto;
+    height: 450px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+
+}
+img
+{
+    height: 300px;
+    width: 220px;
+    border-radius: $imgBoderRadius  
+    
+}
+.imge
+{
+    height: 400px;
+    width: 230px;
+    background-color: $imgBackColor;
+    border-radius: $imgBoderRadius;
+    text-align: center;
+    padding: 5px;
+    float: right;
+    margin: 5px;
+
+    
+}
+.profile
+{
+    font-family: tahoma;
+}
+.explain{
+    clear: right;
+    text-align: right;
+}
+.exheader{
+    display: block;
+    background-color: $imgBackColor;
+    padding:$expadding; 
+    font-size: 20px;
+}
+.exbody{
+    padding: $expadding;
+    font-size: 15px;
+}

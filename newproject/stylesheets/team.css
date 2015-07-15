@@ -1,0 +1,52 @@
+/* line 7, ../sass/team.scss */
+.allimg {
+  width: auto;
+  height: 450px;
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+/* line 16, ../sass/team.scss */
+img {
+  height: 300px;
+  width: 220px;
+  border-radius: 10px;
+}
+
+/* line 23, ../sass/team.scss */
+.imge {
+  height: 400px;
+  width: 230px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px;
+  float: right;
+  margin: 5px;
+}
+
+/* line 36, ../sass/team.scss */
+.profile {
+  font-family: tahoma;
+}
+
+/* line 40, ../sass/team.scss */
+.explain {
+  clear: right;
+  text-align: right;
+}
+
+/* line 44, ../sass/team.scss */
+.exheader {
+  display: block;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  font-size: 20px;
+}
+
+/* line 50, ../sass/team.scss */
+.exbody {
+  padding: 20px;
+  font-size: 15px;
+}
